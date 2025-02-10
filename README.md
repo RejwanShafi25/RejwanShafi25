@@ -110,6 +110,31 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
       </div> -->
     </td>
   </tr>
+
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/RejwanShafi25/RoboRumble--Explosive-Showdown--2D-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejwanshafi25&repo=RoboRumble--Explosive-Showdown--2D-Game&theme=radical" />
+      </a>
+      <!-- <div align="left" style="padding: 10px; border-radius: 8px; background: #1A1A1A; margin-top: 10px;">
+        <h4>🔍 Key Features</h4>
+        <p>📌 Advanced Computer Vision pipeline for object detection<br>
+        📊 Achieved 98.7% accuracy on COCO dataset<br>
+        🚀 Real-time inference capabilities</p>
+      </div> -->
+    </td>
+    <td width="50%">
+      <a href="https://github.com/RejwanShafi25/Brain-stroke-analysis-and-classification--CSE422-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejwanshafi25&repo=Brain-stroke-analysis-and-classification--CSE422-Project&theme=radical" />
+      </a>
+      <!-- <div align="left" style="padding: 10px; border-radius: 8px; background: #1A1A1A; margin-top: 10px;">
+        <h4>🔧 Technical Highlights</h4>
+        <p>🌐 Full-stack AI-powered web application<br>
+        💻 Integrated PyTorch models with Laravel backend<br>
+        🎨 Custom visualization dashboard</p>
+      </div> -->
+    </td>
+  </tr>
 </table>
 
 </div>
