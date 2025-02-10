@@ -145,6 +145,12 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
 ## 📈 Contribution Graph and Trophies
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwanshafi25&theme=react-dark" alt="GitHub Contribution Graph" /> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/github-snake.svg" />
+</picture>
+
 
 <p align=""> <img src="https://github-profile-trophy.vercel.app/?username=rejwanshafi25&theme=onedark&row=2&column=4" alt="GitHub Trophies"> </p>
 
