@@ -49,12 +49,13 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
 ---
 ## 📊 GitHub Analytics
 <!-- curren streak -->
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=rejwanshafi25&show_icons=true&theme=light" alt="GitHub Stats" />
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rejwanshafi25&theme=dracula" alt="GitHub Streak Stats" />  -->
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejwanshafi25&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Language" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejwanshafi25&theme=light" width=350 alt="Top Languages" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejwanshafi25&show_icons=true&theme=dark&locale=en" alt="Github Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejwanshafi25&theme=highcontrast" alt="Streak Count" /></p>
+
+
 
 ---
 ## 🛠️ Tech Skills
@@ -76,7 +77,6 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
 
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=404141" height=27.5/>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)<img src="https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=404141" height=27.5>![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 ---
 
 ## 🌟 Projects
@@ -141,8 +141,8 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
 
 ---
 
----
-## 📈 Contribution Graph and Trophies
+<!--- --- --->
+ <!---## 📈 Contribution Graph and Trophies
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwanshafi25&theme=react-dark" alt="GitHub Contribution Graph" /> </p>
 
 <picture>
@@ -152,9 +152,9 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
 </picture>
 
 
-<p align=""> <img src="https://github-profile-trophy.vercel.app/?username=rejwanshafi25&theme=onedark&row=2&column=4" alt="GitHub Trophies"> </p>
+<p align=""> <img src="https://github-profile-trophy.vercel.app/?username=rejwanshafi25&theme=onedark&row=2&column=4" alt="GitHub Trophies"> </p> -->
 
----
+<!--- --- --->
 ## 🤝 Let's Collaborate!
 <p align="">If you have any exciting Deep Learning or Web Development based projects, feel free to connect!  That way, we can build something amazing together, and I’ll also get to learn something new along the way!</p>
 
