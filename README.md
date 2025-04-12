@@ -42,7 +42,7 @@ I am passionate about Deep Learning, Machine Learning and Computer Vision tasks.
 <a href="https://facebook.com/yourprofile"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a> 
 <a href="https://instagram.com/bd_sketch25"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href="mailto:rejwanshafi.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-<a href="#"> <img src="https://img.shields.io/badge/-Deviantart-05122A?style=flat-square&logo=Deviantart&color=404141" height=27.5> </a>
+<a href="https://www.behance.net/bd_sketch25"> <img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" height=28> </a>
 <a href="https://www.artstation.com/bdsketch25"> <img src="https://img.shields.io/badge/-Artstation-05122A?style=flat-square&logo=Artstation&color=404141" height=27.5> </a>
 </p>
 
