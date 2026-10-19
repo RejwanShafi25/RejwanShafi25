@@ -571,12 +571,12 @@ def journey(out):
     nodes = [
         ("2021 - 2025", "BRAC UNIVERSITY", "B.Sc. in Computer Science, Dhaka. CGPA 3.72 / 4.00. Vice Chancellor's List twice, Dean's List twice.", "学"),
         ("JAN - SEP 2024", "TEACHING ASSISTANT", "Undergraduate TA for Complex Variables and Laplace Transformation, 120+ students per semester.", "師"),
-        ("2024 - NOW", "THE FORGE", "Course projects turned into real builds: YOLOv8 signboards, RSWNet, Nilam BD and the RejBoard app.", "鍛"),
+        ("2024 - NOW", "THE FORGE", "Course projects (YOLOv8 signboards, RSWNet, Nilam BD) plus RejBoard, a hobby project built on the side.", "鍛"),
         ("NEXT CHAPTER", "MS IN COMPUTER SCIENCE", "Applying for fall 2027. Focus: computer vision and medical imaging.", "道"),
     ]
     s = Svg(W, H, "Journey. 2021 to 2025: B.Sc. in Computer Science at BRAC University, CGPA 3.72, Vice Chancellor's List twice and Dean's List twice. "
                   "January to September 2024: undergraduate teaching assistant for Complex Variables and Laplace Transformation, 120 plus students per semester. "
-                  "2024 to now: YOLOv8 signboards, RSWNet, Nilam BD and RejBoard. Next chapter: MS in computer science, fall 2027, computer vision and medical imaging.")
+                  "2024 to now: course projects (YOLOv8 signboards, RSWNet, Nilam BD) and RejBoard, a hobby project. Next chapter: MS in computer science, fall 2027, computer vision and medical imaging.")
     base(s, 12, 9)
     s.add('<line class="draw" x1="56" y1="70" x2="1144" y2="70" stroke="%s" stroke-width="3"/>' % ORANGE)
     cw, gap = 258, 26
@@ -640,8 +640,8 @@ def label(out, fname, text, sub):
 
 
 def footer(out):
-    W, H = 1200, 260
-    s = Svg(W, H, "See the unseen. Rejwan Shafi, RejwanShafi25.")
+    W, H = 1200, 296
+    s = Svg(W, H, "See the unseen. Rejwan Shafi, RejwanShafi25. Admiration is the state furthest from understanding. Sosuke Aizen.")
     base(s, 22, 31)
     d1, b1 = crescent(150, 130, 150, 62, -22, 132, -16, ORANGE, "c", blur=18, opacity=.35)
     d2, b2 = crescent(150, 130, 150, 62, -22, 132, -16, BONE, "d", opacity=.16)
@@ -651,8 +651,9 @@ def footer(out):
     s.add('<polygon points="%s" fill="%s"/>' % (torn(380, 60, 820, 120, 14, 2.6), BONE))
     s.text("SEE THE UNSEEN.", 600, 108, 46, "black", INK, 1.2, anchor="middle", skew=8)
     s.text("REJWAN SHAFI  /  REJWANSHAFI25", 600, 160, 14, "black", BONE, 6, anchor="middle")
-    s.text("CUT THROUGH THE NOISE", 600, 196, 11.5, "mono", GREY, 5, anchor="middle")
-    s.add('<line x1="56" y1="228" x2="1144" y2="228" stroke="%s" stroke-opacity=".2" stroke-width="1.5"/>' % BONE)
+    s.text("\u201cAdmiration is the state furthest from understanding.\u201d", 600, 214, 20, "med", "#e8e4dc", anchor="middle", skew=10)
+    s.text("SOSUKE AIZEN", 600, 244, 11.5, "mono", ORANGE, 5, anchor="middle")
+    s.add('<line x1="56" y1="270" x2="1144" y2="270" stroke="%s" stroke-opacity=".2" stroke-width="1.5"/>' % BONE)
     write(os.path.join(out, "footer-signature.svg"), s.render(extra_defs=STD_DEFS + d1 + d2 + d3 + d4))
 
 
@@ -671,12 +672,12 @@ def build_all(out):
         title(out, *a)
     profile(out)
     bankai_card(out, "bankai-rejboard.svg", "I", "REJBOARD",
-                "ELECTRON / JAVASCRIPT / PWA / LOCAL-FIRST",
+                "ELECTRON / JAVASCRIPT / PWA / HOBBY PROJECT",
                 "A handwriting-first whiteboard and note-taking app. Pressure-sensitive pens, LaTeX, shapes and connectors, PDF annotation "
                 "and per-board voice recordings. No account, no cloud, no subscription. Runs on Windows, macOS, Linux and as an installable web app.",
                 [("v1.3.1", "LATEST RELEASE"), ("3 + WEB", "DESKTOP PLATFORMS + PWA"), ("MIT", "OPEN SOURCE")], "板",
                 "Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and "
-                "voice recordings. Electron, JavaScript, installable web app. Version 1.3.1, MIT licensed.", 1)
+                "voice recordings. Electron, JavaScript, installable web app. A hobby project. Version 1.3.1, MIT licensed.", 1)
     bankai_card(out, "bankai-rswnet.svg", "II", "RSWNET",
                 "PYTORCH / RESNET50 / UNSUPERVISED LEARNING",
                 "A deep self-organizing map network for unsupervised feature learning and clustering. A modified ResNet50 encoder and a custom decoder "

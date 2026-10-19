@@ -1,11 +1,10 @@
 <img src="assets/hero.svg" width="100%" alt="Rejwan Shafi. Computer vision, deep learning and digital portrait artist. Seeing the unseen: in scans, in code, in faces. BRAC University CSE graduate, CGPA 3.72 out of 4.00. Next chapter: MS in computer science, fall 2027.">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rejwanshafi/"><img src="https://img.shields.io/badge/LinkedIn-rejwanshafi-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="https://www.artstation.com/bdsketch25"><img src="https://img.shields.io/badge/ArtStation-bdsketch25-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=artstation" alt="ArtStation portfolio"></a>
+  <a href="https://www.linkedin.com/in/rejwanshafiw"><img src="https://img.shields.io/badge/LinkedIn-rejwanshafi-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=linkedin" alt="LinkedIn profile"></a>
   <a href="https://www.behance.net/bd_sketch25"><img src="https://img.shields.io/badge/Behance-bd__sketch25-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=behance" alt="Behance portfolio"></a>
-  <a href="https://instagram.com/bd_sketch25"><img src="https://img.shields.io/badge/Instagram-bd__sketch25-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=instagram" alt="Instagram art account"></a>
-  <a href="mailto:rejwanshafi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rejwanshafi.dev-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=gmail" alt="Email rejwanshafi.dev at gmail dot com"></a>
+  <a href="https://instagram.com/rejwan_art"><img src="https://img.shields.io/badge/Instagram-rejwan__art-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=instagram" alt="Instagram art account"></a>
+  <a href="mailto:rejwan.shafi03@gmail.com"><img src="https://img.shields.io/badge/Email-rejwan.shafi03-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=gmail" alt="Email rejwanshafi.dev at gmail dot com"></a>
   <img src="https://hits.sh/github.com/RejwanShafi25.svg?style=for-the-badge&label=VISITORS&color=ff6a00&labelColor=07070a" alt="Profile view counter">
 </p>
 
@@ -14,7 +13,7 @@
 
 <img src="assets/title-bankai.svg" width="100%" alt="02 Bankai. What left the forge.">
 
-<a href="https://github.com/RejwanShafi25/RejBoard"><img src="assets/bankai-rejboard.svg" width="100%" alt="Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and voice recordings. Electron, JavaScript, installable web app. Version 1.3.1, MIT licensed."></a>
+<a href="https://github.com/RejwanShafi25/RejBoard"><img src="assets/bankai-rejboard.svg" width="100%" alt="Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and voice recordings. Electron, JavaScript, installable web app. A hobby project. Version 1.3.1, MIT licensed."></a>
 <p align="center">
   <a href="https://github.com/RejwanShafi25/RejBoard/releases/latest"><img src="https://img.shields.io/badge/Download-latest_release-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Download the latest RejBoard release"></a>
   <a href="https://rejwanshafi25.github.io/RejBoard/"><img src="https://img.shields.io/badge/Try-web_app-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=pwa" alt="Open the RejBoard web app"></a>
@@ -41,7 +40,6 @@
   <a href="https://github.com/RejwanShafi25/Brain-stroke-analysis-and-classification--CSE422-Project"><img src="https://img.shields.io/badge/Brain_Stroke-repo-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Brain stroke classification repository"></a>
   <a href="https://github.com/RejwanShafi25/Movie_Watching_Platform"><img src="https://img.shields.io/badge/Movie_Platform-repo-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Movie watching platform repository"></a>
   <a href="https://github.com/RejwanShafi25/RoboRumble--Explosive-Showdown--2D-Game"><img src="https://img.shields.io/badge/RoboRumble-repo-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="RoboRumble repository"></a>
-  <a href="https://github.com/RejwanShafi25/awesome-skin-image-analysis-datasets"><img src="https://img.shields.io/badge/Skin_Image_Datasets-reading_list-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Skin image analysis datasets reading list, forked"></a>
   <a href="https://github.com/RejwanShafi25?tab=repositories"><img src="https://img.shields.io/badge/Everything_else-the_archive-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="All repositories"></a>
 </p>
 
@@ -49,7 +47,7 @@
 <img src="assets/abilities-grid.svg" width="100%" alt="Abilities. Languages: Python, C, PHP, JavaScript, SQL, HTML and CSS, LaTeX. Vision and ML: PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLOv8, Hugging Face, NumPy, Pandas, SciPy, Matplotlib. Web and apps: Laravel, Tailwind CSS, Bootstrap, MySQL, Electron, Vite. Tooling: Git, GitHub Actions, Jupyter, Google Colab, Anaconda, VS Code, PyCharm. The other blade: digital portraits, Krita, Photoshop.">
 
 <img src="assets/title-brush.svg" width="100%" alt="04 Brush. The other blade.">
-<img src="assets/art-panel.svg" width="100%" alt="Brush. Faces are the hardest dataset. Beyond the code, Rejwan paints digital portraits of people in Krita and Photoshop. Find the work on Instagram, Behance and ArtStation.">
+<img src="assets/art-panel.svg" width="100%" alt="Brush. Faces are the hardest dataset. Beyond the code, Rejwan paints digital portraits of people in Krita and Photoshop. Find the work on Instagram and Behance.">
 
 <!--
   PORTRAIT GALLERY: drop your paintings into assets/art/ (JPG or PNG, similar aspect ratio)
@@ -63,13 +61,12 @@
 -->
 
 <p align="center">
-  <a href="https://instagram.com/bd_sketch25"><img src="assets/btn-instagram.svg" width="197" alt="Instagram, @bd_sketch25."></a>
+  <a href="https://instagram.com/rejwan_art"><img src="assets/btn-instagram.svg" width="197" alt="Instagram, @rejwan_art."></a>
   <a href="https://www.behance.net/bd_sketch25"><img src="assets/btn-behance.svg" width="172" alt="Behance, bd_sketch25."></a>
-  <a href="https://www.artstation.com/bdsketch25"><img src="assets/btn-artstation.svg" width="207" alt="ArtStation, bdsketch25."></a>
 </p>
 
 <img src="assets/title-journey.svg" width="100%" alt="05 Journey. Where the road has gone.">
-<img src="assets/journey-timeline.svg" width="100%" alt="Journey. 2021 to 2025: B.Sc. in Computer Science at BRAC University, CGPA 3.72, Vice Chancellor's List twice and Dean's List twice. January to September 2024: undergraduate teaching assistant for Complex Variables and Laplace Transformation, 120 plus students per semester. 2024 to now: YOLOv8 signboards, RSWNet, Nilam BD and RejBoard. Next chapter: MS in computer science, fall 2027, computer vision and medical imaging.">
+<img src="assets/journey-timeline.svg" width="100%" alt="Journey. 2021 to 2025: B.Sc. in Computer Science at BRAC University, CGPA 3.72, Vice Chancellor's List twice and Dean's List twice. January to September 2024: undergraduate teaching assistant for Complex Variables and Laplace Transformation, 120 plus students per semester. 2024 to now: course projects (YOLOv8 signboards, RSWNet, Nilam BD) and RejBoard, a hobby project. Next chapter: MS in computer science, fall 2027, computer vision and medical imaging.">
 
 <img src="assets/title-reiatsu.svg" width="100%" alt="06 Reiatsu. A year of commits.">
 <img src="assets/chronicle-panel.svg" width="100%" alt="Commit log, re-rendered daily: total contributions, active days, longest streak, busiest day, and languages by volume.">
@@ -82,8 +79,8 @@
 <img src="assets/contact-panel.svg" width="100%" alt="Send a hell butterfly. Deep learning, computer vision, medical imaging, web, or just art. If you are building something interesting, the inbox is open.">
 
 <p align="center">
-  <a href="mailto:rejwanshafi.dev@gmail.com"><img src="assets/btn-email.svg" width="254" alt="Email rejwanshafi.dev at gmail dot com."></a>
-  <a href="https://www.linkedin.com/in/rejwanshafi/"><img src="assets/btn-linkedin.svg" width="175" alt="LinkedIn, in/rejwanshafi."></a>
+  <a href="mailto:rejwan.shafi03@gmail.com"><img src="assets/btn-email.svg" width="254" alt="Email rejwanshafi.dev at gmail dot com."></a>
+  <a href="https://www.linkedin.com/in/rejwanshafiw/"><img src="assets/btn-linkedin.svg" width="175" alt="LinkedIn, in/rejwanshafi."></a>
 </p>
 
-<img src="assets/footer-signature.svg" width="100%" alt="See the unseen. Rejwan Shafi, RejwanShafi25.">
+<img src="assets/footer-signature.svg" width="100%" alt="See the unseen. Rejwan Shafi, RejwanShafi25. Admiration is the state furthest from understanding. Sosuke Aizen.">
