@@ -1,179 +1,89 @@
-<h1 align="">Hi, I'm Rejwan Shafi 👋</h1>
-<!-- <h3 align="center">
-  <a href="#ml">AI Explorer</a> |
-  <a href="#web">Full Stack Developer</a> |
-  <a href="#art">Digital Artist</a>
-</h3> -->
+<img src="assets/hero.svg" width="100%" alt="Rejwan Shafi. Computer vision, deep learning and digital portrait artist. Seeing the unseen: in scans, in code, in faces. BRAC University CSE graduate, CGPA 3.72 out of 4.00. Next chapter: MS in computer science, fall 2027.">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=600&lines=AI+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Web+Dev;+Passionate+about+Exploring+AI+Frontiers" />
+  <a href="https://www.linkedin.com/in/rejwanshafi/"><img src="https://img.shields.io/badge/LinkedIn-rejwanshafi-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="https://www.artstation.com/bdsketch25"><img src="https://img.shields.io/badge/ArtStation-bdsketch25-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=artstation" alt="ArtStation portfolio"></a>
+  <a href="https://www.behance.net/bd_sketch25"><img src="https://img.shields.io/badge/Behance-bd__sketch25-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=behance" alt="Behance portfolio"></a>
+  <a href="https://instagram.com/bd_sketch25"><img src="https://img.shields.io/badge/Instagram-bd__sketch25-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=instagram" alt="Instagram art account"></a>
+  <a href="mailto:rejwanshafi.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rejwanshafi.dev-ff6a00?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=gmail" alt="Email rejwanshafi.dev at gmail dot com"></a>
+  <img src="https://hits.sh/github.com/RejwanShafi25.svg?style=for-the-badge&label=VISITORS&color=ff6a00&labelColor=07070a" alt="Profile view counter">
 </p>
 
----
-<!-- Profile View and Github Follower Count -->
-[![Profile Views](https://komarev.com/ghpvc/?username=rejwanshafi25&label=Profile%20Views&color=blue&style=flat)](https://github.com/rejwanshafi25)[![GitHub followers](https://img.shields.io/github/followers/rejwanshafi25?label=Followers&style=social)](https://github.com/rejwanshafi25?tab=followers)
+<img src="assets/title-profile.svg" width="100%" alt="01 Profile. Who holds the blade.">
+<img src="assets/profile-panel.svg" width="100%" alt="Profile. I teach machines to see. Computer science graduate from BRAC University, CGPA 3.72, with a deep learning and computer vision streak, and a digital portrait painter. Class: computer science graduate. Specialty: computer vision and deep learning. Zanpakuto: Python and PyTorch. Bankai: RejBoard. Second blade: digital portraits. Next: MS, fall 2027.">
 
----
-### 🚀 About Me
+<img src="assets/title-bankai.svg" width="100%" alt="02 Bankai. What left the forge.">
 
-```python
-class RejwanShafi:
-    def __init__(self):
-        self.role = "Undergraduate Student" #AI Explorer & Full Stack Developer
-        self.current_focus = ["Computer Vision", "Deep Learning", "Web Development"]
-        self.learning = ["TensorFlow", "PyTorch", "MERN Stack"]
-        self.passion = "Pushing AI boundaries & creating digital art"
-    
-    def get_current_state(self):
-        return {
-            "exploring": "AI Frontiers in Computer Vision & Deep Learning 🔭",
-            "mastering": "Advanced Deep Learning Architectures 🌱",
-            "creating": "Digital Portrait Art 🎨",
-            "building": "AI-powered Solutions 💡"
-        }
-```
-
-I am passionate about Deep Learning, Machine Learning and Computer Vision tasks. 
-
----
-#### Connect with me
-<p align=""> 
-<a href="https://www.linkedin.com/in/rejwanshafi/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="https://facebook.com/yourprofile"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a> 
-<a href="https://instagram.com/bd_sketch25"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-<a href="mailto:rejwanshafi.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-<a href="https://www.behance.net/bd_sketch25"> <img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white" height=28> </a>
-<a href="https://www.artstation.com/bdsketch25"> <img src="https://img.shields.io/badge/-Artstation-05122A?style=flat-square&logo=Artstation&color=404141" height=27.5> </a>
+<a href="https://github.com/RejwanShafi25/RejBoard"><img src="assets/bankai-rejboard.svg" width="100%" alt="Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and voice recordings. Electron, JavaScript, installable web app. Version 1.3.1, MIT licensed."></a>
+<p align="center">
+  <a href="https://github.com/RejwanShafi25/RejBoard/releases/latest"><img src="https://img.shields.io/badge/Download-latest_release-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Download the latest RejBoard release"></a>
+  <a href="https://rejwanshafi25.github.io/RejBoard/"><img src="https://img.shields.io/badge/Try-web_app-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=pwa" alt="Open the RejBoard web app"></a>
+  <a href="https://github.com/RejwanShafi25/RejBoard"><img src="https://img.shields.io/badge/Repository-RejBoard-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="RejBoard repository"></a>
 </p>
 
----
-## 📊 GitHub Analytics
-<!-- curren streak -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejwanshafi25&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Language" /></p>
+<a href="https://github.com/RejwanShafi25/RSWNet"><img src="assets/bankai-rswnet.svg" width="100%" alt="Bankai II. RSWNet: a deep self-organizing map network for unsupervised feature learning and clustering with a modified ResNet50 encoder. Silhouette score 0.8801 against 0.2936 for the SOM baseline on Fashion-MNIST. PyTorch."></a>
+<p align="center">
+  <a href="https://github.com/RejwanShafi25/RSWNet"><img src="https://img.shields.io/badge/Repository-RSWNet-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="RSWNet repository"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejwanshafi25&show_icons=true&theme=dark&locale=en" alt="Github Stats" /></p>
+<a href="https://github.com/RejwanShafi25/Nilam-an-online-auction-system"><img src="assets/bankai-nilam.svg" width="100%" alt="Bankai III. Nilam BD: an online auction management system built with Laravel. Three roles, real-time bidding with notifications, scheduled auction endings, cash on delivery with admin approval, and a report and moderation system."></a>
+<p align="center">
+  <a href="https://github.com/RejwanShafi25/Nilam-an-online-auction-system"><img src="https://img.shields.io/badge/Repository-Nilam_BD-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Nilam BD repository"></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejwanshafi25&theme=highcontrast" alt="Streak Count" /></p>
+<a href="https://github.com/RejwanShafi25/Signboard-Detection-Using-YOLO-V8-main"><img src="assets/bankai-signboard.svg" width="100%" alt="Bankai IV. Signboard Detection with YOLOv8: a custom object detector trained on about 3,800 street images from Bangladesh, 64.8 percent mAP at 50 and 67 percent recall on the test set."></a>
+<p align="center">
+  <a href="https://github.com/RejwanShafi25/Signboard-Detection-Using-YOLO-V8-main"><img src="https://img.shields.io/badge/Repository-Signboard_Vision-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Signboard detection repository"></a>
+</p>
 
+<img src="assets/archive-grid.svg" width="100%" alt="The archive: Brain Stroke classification with 96.79 percent random forest accuracy, Movie Watching Platform in PHP and MySQL, and RoboRumble, a 2D OpenGL artillery game.">
+<p align="center">
+  <a href="https://github.com/RejwanShafi25/Brain-stroke-analysis-and-classification--CSE422-Project"><img src="https://img.shields.io/badge/Brain_Stroke-repo-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Brain stroke classification repository"></a>
+  <a href="https://github.com/RejwanShafi25/Movie_Watching_Platform"><img src="https://img.shields.io/badge/Movie_Platform-repo-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Movie watching platform repository"></a>
+  <a href="https://github.com/RejwanShafi25/RoboRumble--Explosive-Showdown--2D-Game"><img src="https://img.shields.io/badge/RoboRumble-repo-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="RoboRumble repository"></a>
+  <a href="https://github.com/RejwanShafi25/awesome-skin-image-analysis-datasets"><img src="https://img.shields.io/badge/Skin_Image_Datasets-reading_list-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Skin image analysis datasets reading list, forked"></a>
+  <a href="https://github.com/RejwanShafi25?tab=repositories"><img src="https://img.shields.io/badge/Everything_else-the_archive-171717?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="All repositories"></a>
+</p>
 
+<img src="assets/title-abilities.svg" width="100%" alt="03 Zanpakuto. The tools I draw.">
+<img src="assets/abilities-grid.svg" width="100%" alt="Abilities. Languages: Python, C, PHP, JavaScript, SQL, HTML and CSS, LaTeX. Vision and ML: PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, YOLOv8, Hugging Face, NumPy, Pandas, SciPy, Matplotlib. Web and apps: Laravel, Tailwind CSS, Bootstrap, MySQL, Electron, Vite. Tooling: Git, GitHub Actions, Jupyter, Google Colab, Anaconda, VS Code, PyCharm. The other blade: digital portraits, Krita, Photoshop.">
 
----
-## 🛠️ Tech Skills
+<img src="assets/title-brush.svg" width="100%" alt="04 Brush. The other blade.">
+<img src="assets/art-panel.svg" width="100%" alt="Brush. Faces are the hardest dataset. Beyond the code, Rejwan paints digital portraits of people in Krita and Photoshop. Find the work on Instagram, Behance and ArtStation.">
 
-<h4 id="Programming language">💻 Programming Language</h4>
+<!--
+  PORTRAIT GALLERY: drop your paintings into assets/art/ (JPG or PNG, similar aspect ratio)
+  and uncomment this block. Each image links to the full-size file.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<p align="center">
+  <a href="assets/art/portrait-1.jpg"><img src="assets/art/portrait-1.jpg" width="32%" alt="Digital portrait painting 1"></a>
+  <a href="assets/art/portrait-2.jpg"><img src="assets/art/portrait-2.jpg" width="32%" alt="Digital portrait painting 2"></a>
+  <a href="assets/art/portrait-3.jpg"><img src="assets/art/portrait-3.jpg" width="32%" alt="Digital portrait painting 3"></a>
+</p>
+-->
 
-<h4 id="ml">🤖 AI & Machine Learning </h4>
+<p align="center">
+  <a href="https://instagram.com/bd_sketch25"><img src="assets/btn-instagram.svg" width="197" alt="Instagram, @bd_sketch25."></a>
+  <a href="https://www.behance.net/bd_sketch25"><img src="assets/btn-behance.svg" width="172" alt="Behance, bd_sketch25."></a>
+  <a href="https://www.artstation.com/bdsketch25"><img src="assets/btn-artstation.svg" width="207" alt="ArtStation, bdsketch25."></a>
+</p>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" height=27.5/>
+<img src="assets/title-journey.svg" width="100%" alt="05 Journey. Where the road has gone.">
+<img src="assets/journey-timeline.svg" width="100%" alt="Journey. 2021 to 2025: B.Sc. in Computer Science at BRAC University, CGPA 3.72, Vice Chancellor's List twice and Dean's List twice. January to September 2024: undergraduate teaching assistant for Complex Variables and Laplace Transformation, 120 plus students per semester. 2024 to now: YOLOv8 signboards, RSWNet, Nilam BD and RejBoard. Next chapter: MS in computer science, fall 2027, computer vision and medical imaging.">
 
-<h4 id="ml">🌐 Web Development </h4>
+<img src="assets/title-reiatsu.svg" width="100%" alt="06 Reiatsu. A year of commits.">
+<img src="assets/chronicle-panel.svg" width="100%" alt="Commit log, re-rendered daily: total contributions, active days, longest streak, busiest day, and languages by volume.">
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<!--- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) --> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)<!--- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/snake.svg" width="100%" alt="Animated snake eating my real public GitHub contributions over the past year, re-rendered daily.">
+</p>
 
+<img src="assets/title-contact.svg" width="100%" alt="07 Contact. Say something worth answering.">
+<img src="assets/contact-panel.svg" width="100%" alt="Send a hell butterfly. Deep learning, computer vision, medical imaging, web, or just art. If you are building something interesting, the inbox is open.">
 
-<h4 id="ml">Others </h4>
+<p align="center">
+  <a href="mailto:rejwanshafi.dev@gmail.com"><img src="assets/btn-email.svg" width="254" alt="Email rejwanshafi.dev at gmail dot com."></a>
+  <a href="https://www.linkedin.com/in/rejwanshafi/"><img src="assets/btn-linkedin.svg" width="175" alt="LinkedIn, in/rejwanshafi."></a>
+</p>
 
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=404141" height=27.5/>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)<img src="https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=404141" height=27.5>![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌟 Projects
-
-<div align="center">
-  
-### 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/RejwanShafi25/Signboard-Detection-Using-YOLO-V8-main">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejwanshafi25&repo=Signboard-Detection-Using-YOLO-V8-main&theme=radical" />
-      </a>
-      <!-- <div align="left" style="padding: 10px; border-radius: 8px; background: #1A1A1A; margin-top: 10px;">
-        <h4>🔍 Key Features</h4>
-        <p>📌 Advanced Computer Vision pipeline for object detection<br>
-        📊 Achieved 98.7% accuracy on COCO dataset<br>
-        🚀 Real-time inference capabilities</p>
-      </div> -->
-    </td>
-    <td width="50%">
-      <a href="https://github.com/rejwanshafi25/Nilam-BD-an-online-auction-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejwanshafi25&repo=Nilam-BD-an-online-auction-system&theme=radical" />
-      </a>
-      <!-- <div align="left" style="padding: 10px; border-radius: 8px; background: #1A1A1A; margin-top: 10px;">
-        <h4>🔧 Technical Highlights</h4>
-        <p>🌐 Full-stack AI-powered web application<br>
-        💻 Integrated PyTorch models with Laravel backend<br>
-        🎨 Custom visualization dashboard</p>
-      </div> -->
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/RejwanShafi25/RoboRumble--Explosive-Showdown--2D-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejwanshafi25&repo=RoboRumble--Explosive-Showdown--2D-Game&theme=radical" />
-      </a>
-      <!-- <div align="left" style="padding: 10px; border-radius: 8px; background: #1A1A1A; margin-top: 10px;">
-        <h4>🔍 Key Features</h4>
-        <p>📌 Advanced Computer Vision pipeline for object detection<br>
-        📊 Achieved 98.7% accuracy on COCO dataset<br>
-        🚀 Real-time inference capabilities</p>
-      </div> -->
-    </td>
-    <td width="50%">
-      <a href="https://github.com/RejwanShafi25/Brain-stroke-analysis-and-classification--CSE422-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejwanshafi25&repo=Brain-stroke-analysis-and-classification--CSE422-Project&theme=radical" />
-      </a>
-      <!-- <div align="left" style="padding: 10px; border-radius: 8px; background: #1A1A1A; margin-top: 10px;">
-        <h4>🔧 Technical Highlights</h4>
-        <p>🌐 Full-stack AI-powered web application<br>
-        💻 Integrated PyTorch models with Laravel backend<br>
-        🎨 Custom visualization dashboard</p>
-      </div> -->
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<!--- --- --->
- <!---## 📈 Contribution Graph and Trophies
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwanshafi25&theme=react-dark" alt="GitHub Contribution Graph" /> </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RejwanShafi25/RejwanShafi25/output/github-snake.svg" />
-</picture>
-
-
-<p align=""> <img src="https://github-profile-trophy.vercel.app/?username=rejwanshafi25&theme=onedark&row=2&column=4" alt="GitHub Trophies"> </p> -->
-
-<!--- --- --->
-## 🤝 Let's Collaborate!
-<p align="">If you have any exciting Deep Learning or Web Development based projects, feel free to connect!  That way, we can build something amazing together, and I’ll also get to learn something new along the way!</p>
-
----
-## 💡 Fun Fact
-"When I'm not training neural networks, I'm training my artistic neurons through digital portrait art!"
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-<!-- </p> -->
-</div>
-
-<!-- xyz -->
-
-
-
-
-
-
-
+<img src="assets/footer-signature.svg" width="100%" alt="See the unseen. Rejwan Shafi, RejwanShafi25.">

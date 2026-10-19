@@ -1,97 +1,61 @@
-name: GitHub Snake Game
-
-
+name: Refresh profile activity
 
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
-    - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
+    - cron: "0 3 * * *"
   workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
   push:
-
-    branches:
-
-      - main
-
-
+    branches: [main]
 
 jobs:
-
-  generate:
-
+  snake:
+    name: Contribution snake
     runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
-
-
+    permissions:
+      contents: write
     steps:
-
-      # Step 1: Checkout the repository
-
-      - name: Checkout Repository
-
-        uses: actions/checkout@v3
-
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
+      - name: Render the contribution grid
         uses: Platane/snk@v3
-
+        id: snake
         with:
-
-          # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
           outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#ff6a00&color_dots=#1b1b21,#4a2000,#8a3a00,#ff6a00,#ffb066
 
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  chronicle:
+    name: Reiatsu panel
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
 
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
-        uses: peaceiris/actions-gh-pages@v3
-
+      - uses: actions/setup-python@v5
         with:
+          python-version: "3.12"
 
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Render the panel from live GitHub data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python -I tools/chronicle.py assets/chronicle-panel.svg
 
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
+      - name: Commit it only when the numbers moved
+        run: |
+          if [ -n "$(git status --porcelain assets/chronicle-panel.svg)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/chronicle-panel.svg
+            git commit -m "Refresh reiatsu panel"
+            git push
+          else
+            echo "No change in the reiatsu panel."
+          fi
