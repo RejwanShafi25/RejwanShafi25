@@ -657,6 +657,16 @@ def footer(out):
     write(os.path.join(out, "footer-signature.svg"), s.render(extra_defs=STD_DEFS + d1 + d2 + d3 + d4))
 
 
+def rejboard_card(out, version="1.3.3"):
+    bankai_card(out, "bankai-rejboard.svg", "I", "REJBOARD",
+                "ELECTRON / JAVASCRIPT / PWA / HOBBY PROJECT",
+                "A handwriting-first whiteboard and note-taking app. Pressure-sensitive pens, LaTeX, shapes and connectors, PDF annotation "
+                "and per-board voice recordings. No account, no cloud, no subscription. Runs on Windows, macOS, Linux and as an installable web app.",
+                [("v" + version, "LATEST RELEASE"), ("3 + WEB", "DESKTOP PLATFORMS + PWA"), ("MIT", "OPEN SOURCE")], "板",
+                "Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and "
+                "voice recordings. Electron, JavaScript, installable web app. A hobby project. Version " + version + ", MIT licensed.", 1)
+
+
 def build_all(out):
     hero(out)
     t = [
@@ -671,13 +681,7 @@ def build_all(out):
     for a in t:
         title(out, *a)
     profile(out)
-    bankai_card(out, "bankai-rejboard.svg", "I", "REJBOARD",
-                "ELECTRON / JAVASCRIPT / PWA / HOBBY PROJECT",
-                "A handwriting-first whiteboard and note-taking app. Pressure-sensitive pens, LaTeX, shapes and connectors, PDF annotation "
-                "and per-board voice recordings. No account, no cloud, no subscription. Runs on Windows, macOS, Linux and as an installable web app.",
-                [("v1.3.1", "LATEST RELEASE"), ("3 + WEB", "DESKTOP PLATFORMS + PWA"), ("MIT", "OPEN SOURCE")], "板",
-                "Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and "
-                "voice recordings. Electron, JavaScript, installable web app. A hobby project. Version 1.3.1, MIT licensed.", 1)
+    rejboard_card(out)
     bankai_card(out, "bankai-rswnet.svg", "II", "RSWNET",
                 "PYTORCH / RESNET50 / UNSUPERVISED LEARNING",
                 "A deep self-organizing map network for unsupervised feature learning and clustering. A modified ResNet50 encoder and a custom decoder "

@@ -13,7 +13,7 @@
 
 <img src="assets/title-bankai.svg" width="100%" alt="02 Bankai. What left the forge.">
 
-<a href="https://github.com/RejwanShafi25/RejBoard"><img src="assets/bankai-rejboard.svg" width="100%" alt="Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and voice recordings. Electron, JavaScript, installable web app. A hobby project. Version 1.3.1, MIT licensed."></a>
+<a href="https://github.com/RejwanShafi25/RejBoard"><img src="assets/bankai-rejboard.svg" width="100%" alt="Bankai I. RejBoard: a local-first whiteboard and handwriting note-taking app with pressure-sensitive pens, LaTeX, PDF annotation and voice recordings. Electron, JavaScript, installable web app. A hobby project. Version 1.3.3, MIT licensed."></a>
 <p align="center">
   <a href="https://github.com/RejwanShafi25/RejBoard/releases/latest"><img src="https://img.shields.io/badge/Download-latest_release-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=github" alt="Download the latest RejBoard release"></a>
   <a href="https://rejwanshafi25.github.io/RejBoard/"><img src="https://img.shields.io/badge/Try-web_app-b84400?style=for-the-badge&labelColor=07070a&logoColor=ffffff&logo=pwa" alt="Open the RejBoard web app"></a>
